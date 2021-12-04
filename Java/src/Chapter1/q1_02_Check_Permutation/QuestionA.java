@@ -1,4 +1,4 @@
-package Chapter1.q2_01_Check_Permutation;
+package Chapter1.q1_02_Check_Permutation;
 
 public class QuestionA {
     public static String sort_str (String str) {
