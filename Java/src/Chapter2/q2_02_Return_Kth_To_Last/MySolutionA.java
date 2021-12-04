@@ -10,7 +10,7 @@ package Chapter2.q2_02_Return_Kth_To_Last;
     先をすすむポインタが末尾に到着すると、後ろのポインタとの差がkなのでその要素が答え
 * */
 
-public class Node {
+class Node {
     int data;
     Node next = null;
 
